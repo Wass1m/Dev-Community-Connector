@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://onetikdz:onetik4life@devmern-p68qd.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "myNameisWassim",
+  "githubClientId": "2fd3160cddd0423ae948",
+  "githubSecret": "e38adc9cce75f4361ad184a4d047067e5c650568"
+}
